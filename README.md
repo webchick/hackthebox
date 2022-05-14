@@ -235,3 +235,22 @@ After the successful mission of Space Pirate, Bonnie ordered Ramona to hijack an
 Wormhole Efficiency
 ---
 After a severe clash with one of Golden Fang's battleships, Ramona's spaceship was damaged, and now it consumes fuel at the triple cost. Can you reach home without running out of fuel? Our best option is to travel through wormholes otherwise, the spaceship will be left wandering in space and become prey to Golden Fang's army.
+
+[Hardware](./hardware)
+===
+
+Space Pulses
+---
+One of our enhanced radio telescopes captured some weird fluctuations from a nearby star. It was idle for decades due to the fact that it was fully enclosed by a Dyson Sphere but its patterns began to change drastically leading us to believe that someone is controlling part of the megastructure to release energy and send these pulses directed to us in order to transmit a message. They must have known that our equipment can read even the slightest flactuations.
+
+Through fire n gates
+---
+After Ramona helped Virgil escape from the prison they were holding him they had to find a way to flee the planet but all the spaceships were grounded. Luckily they manage to gain access to a hangar with decommissioned escape pods. After some tinkering with the pod's control panel, they managed to attach some probes to it and reverse engineer the proprietary protection circuit but some of it appears to be damaged. The only thing holding them back was finding a way to gain access to the flight control system.
+
+Into the Matrix
+---
+After a long time away it is finally time to get back all the equipment build all those years. While going through the hardware devices to reconfigure or upgrade them one of them seemed a bit off. It appears that someone was toying with a few of the devices, changing and breaking the hard-wired components which resulted in some of them malfunctioning. The status matrix in one of the armor-enhancing weapons seems to display random indications making the weapon selection system unusable. This, combined with the fact that most of the circuitry is now under a hard epoxy resin makes it impossible to reconfigure the hardware connection, thus the only solution is to reverse engineer the current device layout and add an additional circuitry that will work around the current one.
+
+Secret Codes
+---
+A sudden burst of RF signals started in an attempt to compromise our perimeter security. We intercepted a few of them but our ADC broke during the transformation to a serial signal leaving us with only an analog capture. We need to decode it and find if they are close to finding the correct passcode.
