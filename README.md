@@ -204,3 +204,34 @@ Miyuki has come across what seems to be a suspicious process running on one of h
 Reflection
 ---
 You and Miyuki have succeeded in dis-empowering Draeger's army in every possible way. Stopped their fuel-supply plan, arrested their ransomware gang, prevented massive phishing campaigns and understood their tactics and techniques in depth. Now it is the time for the final blow. The final preparations are completed. Everyone is in their stations waiting for the signal. This mission can only be successful if you use the element of surprise. Thus, the signal must remain a secret until the end of the operation. During some last-minute checks you notice some weird behaviour in Miyuki's PC. You must find out if someone managed to gain access to her PC before it's too late. If so, the signal must change. Time is limited and there is no room for errors. Download: http://134.209.177.115/forensics/forensics_reflection.zip
+
+[Misc](./misc)
+===
+
+Compressor
+---
+Ramona's obsession with modifications and the addition of artifacts to her body has slowed her down and made her fail and almost get killed in many missions. For this reason, she decided to hack a tiny robot under Golden Fang's ownership called ""Compressor"", which can reduce and increase the volume of any object to minimize/maximize it according to the needs of the mission. With this item, she will be able to carry any spare part she needs without adding extra weight to her back, making her fast. Can you help her take it and hack it?
+
+Matrioshka Brain
+---
+The possibility of a weapon that alters the very core of the structure of the universe itself is beyond even the wildest imaginations. Or is it? Ramona and Paulie are exeperimenting with concentric Dyson spheres to achieve the impossible, to harvest the energy of an entire quasar in order to create such a weapon. The exepriments showed that five spheres are the optimal solution. Alas, the thermal equilibrium is still a pressing issue they need to figure out. They measure the temperature of each sphere for every minute. Now all that is left is to properly analyze the data and figure out why there are so many thermal inconsistencies
+
+Fuel Crisis
+---
+After travelling for too many light years, we managed to reach an uninhabited planet to rest for a while. We got a problem though. Phalcon is running out of fuel and we need to stop at the nearest space station to refuel. The closest one is the B1-4S3D station, where we are unfortunately banned from docking our ship. Our surveillance showed that the station uses two OCR cameras to read the unique ID of each spaceship entering. The first one is used as a validator for the second one. We've managed to find a way to disable the validation process for a split second while our ship passes, but we still need to pass through the second camera. Furthermore, our lead hacker opened a connection with the second camera, which we can use to upload our custom model weights. Try to find a way to change the predictions of the model when we pass through the second gate. Be careful though, the other four spaceships that are in front of us need to be ID'd correctly so no suspicion raises.
+
+Battle in OrI/On
+---
+The spaceship cruiser has been hit! Ramona must hurry and check if the central system is intact! The enemy must have used electromagnetic wave canons! The spaceship's sensors are going crazy and the autopilot system broke down! There is no chance to turn back the enemy will be waiting... But there is a meteor shower ahead! In order to get through safely, the spaceship's power and consumption need to be balanced. Both the laser canons and the thrusters are vital parts for this... And she has to control them manually! Quickly! Ramona needs to upload a valid configuration file to overwrite the values of all sensors on board. The onboard neural network will verify that the new configuration leads to the required power distribution. Attention! The values of the sensors must be at least 99.99% accurate for this to work! Hurry now, time is running out!
+
+Quantum Engine
+---
+We need to travel to one of Draeger's lair in a galaxy far away from here, to search for any clues that might help us prove how Draeger manipulated her to be his most trustworthy cold-blooded assassin. However, traveling there can be quite difficult since it's flooded with the most state-of-the-art IFGs attack spacecrafts. Should we be able to outspeed them, we might have a chance of making it there in one piece. That is why we came to you. Word on the solar system is that you are one of the best quantum mechanics of the galaxy, which I find odd considering your age. Will you be able to modify Phalcon's acceleration system so no IFG spacecraft can ever catch us?
+
+Spaceship Hijack
+---
+After the successful mission of Space Pirate, Bonnie ordered Ramona to hijack another spaceship on her own on a stealth mission. She managed to get inside it and had limited access to the central controller. By reverse-engineering the controller, we figured out that it uses a unique set of VM instructions with limited capabilities. Can you help her break out of this VM and gain unlimited access?
+
+Wormhole Efficiency
+---
+After a severe clash with one of Golden Fang's battleships, Ramona's spaceship was damaged, and now it consumes fuel at the triple cost. Can you reach home without running out of fuel? Our best option is to travel through wormholes otherwise, the spaceship will be left wandering in space and become prey to Golden Fang's army.
