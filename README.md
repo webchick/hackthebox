@@ -40,3 +40,46 @@ To weaken the Golden Fang army, we must cut off their funding of the Genesis coi
 [CheckpointBots](./web_checkpointbots)
 ---
 The evergreen Earth was seized by the nomadic tribes of the Glowing Sea during the energy crisis war that turned beautiful Japan into a war-torn autonomous region of militarized activities. Even after Draeger's defeat, the once proud nation of Japan was still under the captivity of the nomadic tribes and is currently at war with other regions. At the request of the Earth liberation front, Ulysses and the crew decided to help infiltrate their headquarters in the Kyoto region. Can you disarm the Checkpoint bots that roam around the city of Kyoto?
+
+Pwn
+===
+
+Space Pirate: Entrypoin
+---
+D12 is one of Golden Fang's missile launcher spaceships. Our mission as space pirates is to highjack D12, get inside the control panel room, and access the missile launcher system. To achieve our goal, we split the mission into three parts. In this part, all we need to do is bypass the scanning system and open the gates so that we proceed further.
+
+Space pirate: Going Deeper
+---
+We are inside D12! We bypassed the scanning system, and now we are right in front of the Admin Panel. The problem is that there are some safety mechanisms enabled so that not everyone can access the admin panel and become the user right below Draeger. Only a few of his intergalactic team members have access there, and they are the mutants that Draeger trusts. Can you disable the mechanisms and take control of the Admin Panel?
+
+Space pirate: Retribution
+---
+We got access to the Admin Panel! The last part of the mission is to change the target location of the missiles. We can probably target Draeger's HQ or some other Golden Fang's spaceships. Draeger's HQ might be out of the scope for now, but we can certainly cause significant damage to his army.
+
+Vault-breaker
+---
+Moneymaker, Big Boy Bonnie has a crew of his own to do his dirty jobs. On a tiny little planet a few lightyears away, a custom-made vault has been found by his crew. Something is hidden inside it, can you find out the way it works and bring it to Bonnie?
+
+Fleet Management
+---
+Reading through an Underground Intergalactic hacking forum Bonnie stumbles upon a post talking about a backdoor in the Gold Fang’s Spaceship Fleet Management System. There is a note about a twist added by the author to prevent anyone from using the backdoor. Will Bonnie achieve to gain access to Gold Fang’s internal network and retrieve precious documents?
+
+Hellbound
+---
+In one of Bonnie's first missions, a helpless dog was injured by the laser guns during the fierce fight and was unable to move and escape the war scene. Bonnie took the dog and fled the battle, but not much he could do to help the poor dog. Some of the crew's doctors and engineers, made some mutations and added artificial parts to the dog, making it a living war machine under Bonnie's control. After the last fight, something hit the manufactured parts, making them malfunction and driving the dog berserk. Can you fix them and make the dog loyal under Bonnie's control again?
+
+Bon-nie-appetit
+---
+After the successful hijacking of the D12 spaceship during the Space Pirate mission, the crew managed to place a signal transmitter on a vending machine that the Golden Fang's members are using to order food from the Supplier Spacecraft of Draeger. Golden Fang's crew's favorite food contains a secret ingredient called ""Little Green People"", which we do not have further info about. The signal passes through many satellites before it reaches the Supplier, so it won't be easy to track the device and the leaked signal. Can you take advantage of it and get control of the Supplier?
+
+Trick or Deal
+---
+Bonnie and his crew arrive on planet Longhir to get equipped with the latest weaponry, but the intergalactic weapon dealer refuses to sell them weapons because he has a trade agreement with Draeger, the Alien Overlord, thus Bonnie has to employ his neat exploitation tricks to persuade the dealer into selling them weapons.
+
+Sabotage
+---
+Draeger ordered Thanatos, the destroyer under the Golden Fang flag, to annihilate our defense base with a super laser beam capable of destroying whole planets. Bonnie and his crew go for a sabotage-suicide mission in order to stop Thanatos before it's too late.
+
+Once and for all
+---
+This is the final countdown, our last chance to face the evil galaxy overlord Draeger. No mistakes are allowed, we need to give it everything we have to build the finest, most powerful weapon ever made to defeat him. Bonnie assembled his crew to discuss and craft it with every resource possible. Will we manage to make it?
