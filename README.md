@@ -1,4 +1,4 @@
-Web
+[Web](./web)
 ===
 
 Kryptos Support
@@ -41,7 +41,7 @@ To weaken the Golden Fang army, we must cut off their funding of the Genesis coi
 ---
 The evergreen Earth was seized by the nomadic tribes of the Glowing Sea during the energy crisis war that turned beautiful Japan into a war-torn autonomous region of militarized activities. Even after Draeger's defeat, the once proud nation of Japan was still under the captivity of the nomadic tribes and is currently at war with other regions. At the request of the Earth liberation front, Ulysses and the crew decided to help infiltrate their headquarters in the Kyoto region. Can you disarm the Checkpoint bots that roam around the city of Kyoto?
 
-Pwn
+[Pwn](./pwn)
 ===
 
 Space Pirate: Entrypoin
@@ -84,7 +84,7 @@ Once and for all
 ---
 This is the final countdown, our last chance to face the evil galaxy overlord Draeger. No mistakes are allowed, we need to give it everything we have to build the finest, most powerful weapon ever made to defeat him. Bonnie assembled his crew to discuss and craft it with every resource possible. Will we manage to make it?
 
-Crypto
+[Crypto](./crypto)
 ===
 
 Android-in-the-Middle
@@ -127,7 +127,7 @@ One Step Closer
 ---
 Reading out loud Danbeer’s thoughts from the cloud server shocked everyone. Knowing that your father has become a consciousness that can be easily turned off and on is traumatizing. You are overwhelmed by your feelings and angry at yourself. You begin to ask yourself. Why am I feeling so much pain? Is there a part of my brain that is still encrypted? Have I screwed up again? You run towards the lab while shouting and slamming the doors behind you. Upon seeing that, Ulysses immediately flees the spaceship. Many days have passed and you are still obsessed with finding the part of your brain that needs to be repaired. Your comrades are startled by your sudden introversion and worry about Ulysses, who is nowhere to be seen. Weeks have passed and Ulysses is still missing. Suddenly, the ship receives a docking signal and as you scan the alien spacecraft for signs of life, a male passenger is discovered. It’s Ulysses! Excited, he rushes out of his capsule and overtakes the crew members, that longed to hug him to get to your lab. Ulysses informs you that he has managed to steal one of the cloud backup servers from the facility where the experiments took place. It seems that this device alters the consciousness of each test subject. Stunned by this information, a realization comes to mind. You are going to get your father back.
 
-Reversing
+[Reversing](./rev)
 ===
 
 WIDE
