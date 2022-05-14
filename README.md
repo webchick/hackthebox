@@ -83,3 +83,46 @@ Draeger ordered Thanatos, the destroyer under the Golden Fang flag, to annihilat
 Once and for all
 ---
 This is the final countdown, our last chance to face the evil galaxy overlord Draeger. No mistakes are allowed, we need to give it everything we have to build the finest, most powerful weapon ever made to defeat him. Bonnie assembled his crew to discuss and craft it with every resource possible. Will we manage to make it?
+
+Crypto
+===
+
+Android-in-the-Middle
+---
+Years have passed since Miyuki rescued you from the graveyard. When Virgil tells you that he needs your help with something he found there, desperate thoughts about your father and the disabilities you developed due to the disposal process come to mind. The device looks like an advanced GPS with AI capabilities. Riddled with questions about the past, you are pessimistic that you could be of any value. After hours of fiddling and observing the power traces of this strange device, you and Virgil manage to connect to the debugging interface and write an interpreter to control the signals. The protocol looks familiar to you. Your father always talked about implementing this scheme in devices for security reasons. Could it have been him?
+
+Jenny From The Block
+---
+Intrigued by the fact that you have found something your father made, and with much confidence that you can be useful to the team, you rush excitedly to integrate “Jenny” into the spaceship’s main operating system. For weeks, everything went smoothly, until you ran into a meteor storm. Having little to no data of training, the AI is now malfunctioning. Ulysses freaks out because he can no longer control the spaceship due to the AI overriding his manual commands. Big banging noises terrify your crew members. Everything is shaking. It’s time to act. Do you think you can temporarily shut down “Jenny” until she becomes more sophisticated?
+
+The Three-Eyed Oracle
+---
+Feeling very frustrated for getting excited about the AI and not thinking about the possibility of it malfunctioning, you blame the encryption of your brain. Feeling defeated and ashamed to have put Miyuki, who saved you, in danger, you slowly walk back to the lab. More determined than ever to find out what’s wrong with your brain, you start poking at one of its chips. This chip is linked to a decision-making algorithm based on human intuition. It seems to be encrypted… but some errors pop up when certain user data is entered. Is there a way to extract more information and fix the chip?
+
+How The Columns Have Turned
+---
+A day before the memorial of the Dying Sun, Miyuki began talking about Broider, a death squad commander and a friend of Paulie’s capturer. He would be a party guest at Viryr’s palace. After examining a lot of different scenarios, Miyuki came up with a plan in which Paulie would lure Broider to a secluded location so the group could capture him. Following the plan, a wild chase had just begun when the two looked each other in the eye. After an extremely risky maneuver, Paulie outwitted Broider and led him into an alley in Vinyr’s undercity. The plan was a success. Your squad had managed to capture Broider and bring him back to the ship. After hours of interrogation by Ulysses, he revealed the final key to a series of encrypted messages. Can you find a way to decrypt the others? The flag consists entirely of uppercase characters and has the form HTB{SOMETHINGHERE}. You still have to add the {} yourself.
+
+MOVs Like Jagger
+---
+While following the breadcrumbs from the secret messages you managed to recover from Broider, Bonnie gathered more information from his well trusted “Tsirakia” and found out that the messages were about the destinations of a STS (Space Transportation Ship). The STS, named “Paketo”, is a notoriously large spaceship that transports military supplies for the Golden Fang mercenary army. After spending some time observing the seemingly random trajectory of Paketo, you and Paulie manually plotted the delivery locations and realized that the STS’s orbit forms an elliptic curve. Your spaceship’s advanced technology GPS has calculated the exact parameters of the curve. Can you somehow predict Paketo’s final destination and hijack it?
+
+Find Marher's Secret
+---
+After figuring out the destination of Paketo, Ulysses devised a hijacking plan to sabotage the delivery of the military equipment. Despite efforts, the plan did not work as expected and a battle ensued. Since your movement was restricted, Miyuki ordered you to hide behind a huge container with unknown contents in fear of taking more damage. Seeing all the killings of the manipulated cyborgs (code named: Marher) brought back memories of your time on the graveyard planet. Suddenly, a cyborg appeared in front of you. Unable to move from the shock, death was all you could think about. Fortunately, Ulysses manages to save you at the last second by knocking the cyborg unconscious. You bring it back to the laboratory to use some of its functionalities to repair parts of your brain. You discover that all of its components are encrypted. Can you find a way to extract the secret key?
+
+Memory Acceleration
+---
+While everyone was asleep, you were pushing the capabilities of your technology to the max. Night after night, you frantically tried to repair the encrypted parts of your brain, reversing custom protocols implemented by your father, wanting to pinpoint exactly what damage had been done and constantly keeping notes because of your inability of forming new memories. On one of those nights, you had a flashback. Your father had always talked about a new technology and how it would change the galaxy. You realized that he had used it on you. This technology dealt with a proof of a work function and decentralized networks. Along with Virgil’s help, you had a “Eureka!” moment, but his approach, brute forcing, meant draining all your energy. Can you find a quicker way to validate new memory blocks?
+
+Down the Rabinhole
+---
+Miyuki, wanting to find out more evidence about Draeger and his escape, planned a space trip to the maximum security black hole where Draeger was held captive. Problems though soon arose as the approach to the black hole caused distortions on your electronics. Memories of the traumatic experience you had when the Council guards brutally ripped you from your father’s hands painfully flooded your mind. The one thing you never forgot was the signal he sent you while you were still within range of the planet. Only two packets got through, but since they were encrypted you couldn’t figure out what they were. Now, being more determined than ever to find your father, having gained experience during the missions with the squad, you know that it’s time to decrypt the signal.
+
+Mind In The Clouds
+---
+Mysterious kidnappings of Longhir’s best scientists began to occur ever since Draeger gained influence in the council, a fact known to everyone in the troupe. Virgil was certain that these kidnappings had something to do with Meiro and the neuro-linked technology he helped develop. He also knew that Draeger wanted to experiment by uploading minds to the cloud and then connecting them to androids. These thoughts ran through Miyuki’s mind while she was searching for clues in the prison. After finding no signs that indicated a physical escape, she concluded that Draeger hadn’t actually escaped. Instead, he had somehow initiated a backup version of his mind, which he had downloaded into an unknown body. Upon hearing Miyuki’s conclusions, the team was in a rather charged mood. As you sit in the corner, almost paralyzed by the crippling news, you can only think of one thing: Is your father in the cloud/s too?
+
+One Step Closer
+---
+Reading out loud Danbeer’s thoughts from the cloud server shocked everyone. Knowing that your father has become a consciousness that can be easily turned off and on is traumatizing. You are overwhelmed by your feelings and angry at yourself. You begin to ask yourself. Why am I feeling so much pain? Is there a part of my brain that is still encrypted? Have I screwed up again? You run towards the lab while shouting and slamming the doors behind you. Upon seeing that, Ulysses immediately flees the spaceship. Many days have passed and you are still obsessed with finding the part of your brain that needs to be repaired. Your comrades are startled by your sudden introversion and worry about Ulysses, who is nowhere to be seen. Weeks have passed and Ulysses is still missing. Suddenly, the ship receives a docking signal and as you scan the alien spacecraft for signs of life, a male passenger is discovered. It’s Ulysses! Excited, he rushes out of his capsule and overtakes the crew members, that longed to hug him to get to your lab. Ulysses informs you that he has managed to steal one of the cloud backup servers from the facility where the experiments took place. It seems that this device alters the consciousness of each test subject. Stunned by this information, a realization comes to mind. You are going to get your father back.
