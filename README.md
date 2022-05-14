@@ -126,3 +126,46 @@ Mysterious kidnappings of Longhir’s best scientists began to occur ever since 
 One Step Closer
 ---
 Reading out loud Danbeer’s thoughts from the cloud server shocked everyone. Knowing that your father has become a consciousness that can be easily turned off and on is traumatizing. You are overwhelmed by your feelings and angry at yourself. You begin to ask yourself. Why am I feeling so much pain? Is there a part of my brain that is still encrypted? Have I screwed up again? You run towards the lab while shouting and slamming the doors behind you. Upon seeing that, Ulysses immediately flees the spaceship. Many days have passed and you are still obsessed with finding the part of your brain that needs to be repaired. Your comrades are startled by your sudden introversion and worry about Ulysses, who is nowhere to be seen. Weeks have passed and Ulysses is still missing. Suddenly, the ship receives a docking signal and as you scan the alien spacecraft for signs of life, a male passenger is discovered. It’s Ulysses! Excited, he rushes out of his capsule and overtakes the crew members, that longed to hug him to get to your lab. Ulysses informs you that he has managed to steal one of the cloud backup servers from the facility where the experiments took place. It seems that this device alters the consciousness of each test subject. Stunned by this information, a realization comes to mind. You are going to get your father back.
+
+Reversing
+===
+
+WIDE
+---
+We've received reports that Draeger has stashed a huge arsenal in the pocket dimension Flaggle Alpha. You've managed to smuggle a discarded access terminal to the Widely Inflated Dimension Editor from his headquarters, but the entry for the dimension has been encrypted. Can you make it inside and take control?
+
+Omega One
+---
+You've been sent to the library planet Omega-One. Here, records from all over the galaxy are collected, sorted and archived with perfect efficiency. You need to retrieve records about Draeger's childhood, but the interface is impossibly large. Can you unravel the storage system?
+
+Rebuilding
+---
+You arrive on a barren planet, searching for the hideout of a scientist involved in the Longhir resistance movement. You touch down at the mouth of a vast cavern, your sensors picking up strange noises far below. All around you, ancient machinery whirrs and spins as strange sigils appear and change on the walls. You can tell that this machine has been running since long before you arrived, and will continue long after you're gone. Can you hope to understand its workings?
+
+Without a Trace
+---
+Draeger's mothership has suddenly vanished, he could be readying an attack! You need to track him down before disaster strikes...
+
+Snakecode
+---
+We found this ancient text inscribed on a stone tablet. We believe it describes the history and technology of a mighty but extinct civilization, but we can't be certain as it's written in a dead language. Can you use your specialist knowledge to uncover the truth, and recover their technology?
+
+Nuts and Bolts
+---
+We've broken into Golden Fang's main weapons assembly facility! If we want to steal them for ourselves, we'll need to crack their top-secret bio-encoded locking scheme. Can you disassemble the weapons in time?
+
+Teleport
+---
+You've been sent to a strange planet, inhabited by a species with the natural ability to teleport. If you're able to capture one, you may be able to synthesise lightweight teleportation technology. However, they don't want to be caught, and disappear out of your grasp - can you get the drop on them?
+
+Indefinite
+---
+You hold in one hand an encrypted datastream, and in the other the central core of a Golden Fang communications terminal. Countless spies have risked their lives to steal both the encrypted attack plans, and the technology used to conceal it, and bring them to you for expert analysis. To your horror, as you turn the screws on the core, its defense mechanisms spring to life, concealing and covering its workings. You have minutes to spare before the device destroys itself - can you crack the code?
+
+Freaky Forum Interception
+---
+You've arrived on the planet Drion-1, where the high galactic court is based. You've come to spread the word about the dangers of Draeger, and gather support, but thousands upon thousands of other lifeforms are also here to argue, squabble and dispute, speaking a thousand different languages. Can you make yourself heard above the babble?
+
+Shuffleme
+---
+Intelligence indicates that the ancient data storage device you've obtained contains schematics for a never-before-seen weapon. But there's a problem - it's locked, and strange symbiotic lifeforms on its surface are constantly removing parts and reinserting them elsewhere. Can you get a clear picture of what's going on?
