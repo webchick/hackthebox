@@ -37,6 +37,10 @@ Genesis Wallet
 ---
 To weaken the Golden Fang army, we must cut off their funding of the Genesis coins. Ulysses managed to perform a phishing attack against one of the financial operators of the mercenary and retrieved the login credentials ""icarus:FlyHighToTheSky"" for the Genesis wallet. However, the account is protected with 2FA. Can you hack into this renowned intergalactic wallet and move their funds to your account?
 
+Genesis Wallet's Revenge
+---
+The previous attempts to get access to the financial operator's account of the Golden Fang army failed, and the Genesis platform went under heavy security modifications to patch any potential issues it might have. Luckily, the operator's credentials remained the same "icarus:FlyHighToTheSky". Can you bypass the 2FA protection and hack into the wallet account of that operator to drain his balance?
+
 CheckpointBots
 ---
 The evergreen Earth was seized by the nomadic tribes of the Glowing Sea during the energy crisis war that turned beautiful Japan into a war-torn autonomous region of militarized activities. Even after Draeger's defeat, the once proud nation of Japan was still under the captivity of the nomadic tribes and is currently at war with other regions. At the request of the Earth liberation front, Ulysses and the crew decided to help infiltrate their headquarters in the Kyoto region. Can you disarm the Checkpoint bots that roam around the city of Kyoto?
